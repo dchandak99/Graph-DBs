@@ -1,0 +1,60 @@
+2)a) MATCH (user1:User)-[:Sent]-(tweet1:Tweet),(tweet2:Tweet)-[:Mentions]-(user2:User) where tweet1.text = tweet2.text and user1.name = user2.name RETURN user1.name order by user1.name;
+
+2)b) MATCH (tweet:Tweet)-[:Contains]-(hashtag:Hashtag) where tweet.text starts with 'we' and hashtag.tag = 'proud' RETURN tweet.text;
+
+
+2)c) MATCH (jessica {name: "Jessica"})-[:Sent]->(t: Tweet)<-[:Sent]-(user: User), (u: Tweet)-[:Contains]->(h: Hashtag)
+with user, collect(u.text) as hashtag_list, t
+where user.name <> "Jessica" and not(t.text in hashtag_list)
+return user.name, t.text;
+
+2)d) MATCH (jessica {name: "Jessica"})-[:Sent]->(t: Tweet)<-[:Sent]-(user: User), (t1: Tweet)-[:Contains]->(b: Hashtag), (u1: User)-[:Follows]->(jessica {name: "Jessica"})
+with user, collect(distinct t1.text) as hashtag_list, t, collect(distinct u1.name) as jessica_follow_list
+where not(user.name in jessica_follow_list) and user.name <> "Jessica" and not(t.text in hashtag_list) 
+return user.name, t.text;
+
+2)e)	MATCH (a:User)-[:Follows]->(b:User)
+return b.name, count(*)
+order by count(*) desc
+limit 5;
+
+2)f) 
+//submission: final ans
+MATCH (ash: User {name: "Ashley"}), (b:User), 
+p = shortestPath((ash)-[:Follows*0..]-(b))
+RETURN length(p) ORDER BY length(p) DESC 
+limit 1;
+
+
+
+2)g) MATCH (a:User)-[:Follows]->(b:User)<-[:Follows]-(thomas: User{name: "Thomas"})
+return a.name, count(*)
+order by count(*) desc, a.name 
+limit 5;
+
+
+
+2)h) MATCH (u: User)-[:Sent]->(t: Tweet)-[:Mentions]->(u1: User)
+where not exists ((u)-[:Follows]->(u1)) and u<>u1
+return u.name as sender, u1.name as mentioned, t.text as tweet;
+
+
+2)i) 
+
+MATCH (thomas: User{name: "Thomas"})-[:Sent]->(t: Tweet)-[:Contains]->(h: Hashtag)
+with collect(h.tag) as tag_list
+MATCH (u: User)-[:Sent]->(t1: Tweet)-[:Contains]->(h1: Hashtag)
+WHERE h1.tag in tag_list and u.name<>"Thomas"
+return distinct u.name;
+
+
+2)j) MATCH (a:User)-[:Follows]->(b:User)<-[:Follows]-(thomas: User{name: "Thomas"})
+with a, count(*) as cnt
+order by cnt desc, a.name
+limit 5
+with collect(a.name) as li
+MATCH (a:User)-[:Follows]->(c:User)
+where a.name in li
+return c.name, count(*) as followers
+order by followers desc, c.name
+limit 2;

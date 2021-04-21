@@ -1,0 +1,1141 @@
+CREATE (:User { name: "James"});
+CREATE (:User { name: "Elizabeth"});
+CREATE (:User { name: "John"});
+CREATE (:User { name: "Richard"});
+CREATE (:User { name: "Thomas"});
+CREATE (:User { name: "Susan"});
+CREATE (:User { name: "Jessica"});
+CREATE (:User { name: "Ashley"});
+CREATE (:User { name: "Steven"});
+CREATE (:User { name: "Dorothy"});
+CREATE (:User { name: "Karen"});
+CREATE (:Tweet { text: "@James when a father is dysfunctional and is so selfish he drags his kids into his dysfunction. #run"});
+CREATE (:Tweet { text: "@Elizabeth @John thanks for #lyft credit i can't use cause they don't offer wheelchair vans in pdx. #disapointed #getthanked"});
+CREATE (:Tweet { text: "bihday your majesty"});
+CREATE (:Tweet { text: "#model i love u take with u all the time in ur!!!"});
+CREATE (:Tweet { text: "factsguide: society now #motivation"});
+CREATE (:Tweet { text: "[2/2] huge fan fare and big talking before they leave. chaos and pay disputes when they get there. #allshowandnogo"});
+CREATE (:Tweet { text: "@Richard camping tomorrow @Thomas @Susan @Jessica @Ashley @Steven @Dorothy @Karen danny"});
+CREATE (:Tweet { text: "the next school year is the year for exams. can't think about that #school #exams #hate #imagine #actorslife #revolutionschool #girl"});
+CREATE (:Tweet { text: "we won!!! love the land!!! #allin #cavs #champions #cleveland #clevelandcavaliers"});
+CREATE (:Tweet { text: "@James @Elizabeth welcome here ! i'm it's so #gr8 !"});
+CREATE (:Tweet { text: "#ireland consumer price index (mom) climbed from previous 0.2% to 0.5% in may #blog #silver #gold #forex"});
+CREATE (:Tweet { text: "we are so selfish. #orlando #standwithorlando #pulseshooting #orlandoshooting #biggerproblems #selfish #heabreaking #values #love #"});
+CREATE (:Tweet { text: "i get to see my daddy today!! #80days #gettingfed"});
+CREATE (:Tweet { text: "@John #cnn calls #michigan middle school 'build the wall' chant '' #tcot"});
+CREATE (:Tweet { text: "no comment! in #australia #opkillingbay #seashepherd #helpcovedolphins #thecove #helpcovedolphins"});
+CREATE (:Tweet { text: "ouch...junior is angry#got7 #junior #yugyoem #omg"});
+CREATE (:Tweet { text: "i am thankful for having a paner. #thankful #positive"});
+CREATE (:Tweet { text: "retweet if you agree!"});
+CREATE (:Tweet { text: "its #friday! smiles all around via ig user: @Richard #cookies make people"});
+CREATE (:Tweet { text: "as we all know, essential oils are not made of chemicals."});
+CREATE (:Tweet { text: "#euro2016 people blaming ha for conceded goal was it fat rooney who gave away free kick knowing bale can hit them from there."});
+CREATE (:Tweet { text: "sad little dude.. #badday #coneofshame #cats #pissed #funny #laughs"});
+CREATE (:Tweet { text: "product of the day: happy man #wine tool who's it's the #weekend? time to open up &amp; drink up!"});
+CREATE (:Tweet { text: "@Thomas @Susan lumpy says i am a . prove it lumpy."});
+CREATE (:Tweet { text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"});
+CREATE (:Tweet { text: "beautiful sign by vendor 80 for $45.00!! #upsideofflorida #shopalyssas #love"});
+CREATE (:Tweet { text: "@Elizabeth all #smiles when #media is !! #pressconference in #antalya #turkey ! sunday #throwback love!"});
+CREATE (:Tweet { text: "we had a great panel on the mediatization of the public service #ica16"});
+CREATE (:Tweet { text: "happy father's day @John"});
+CREATE (:Tweet { text: "50 people went to nightclub to have a good night and 1 man's actions means those people are lost to their families forever #rip#orlando"});
+CREATE (:Tweet { text: "i have never had a chance to vote for a presidential candidate i was excited about and this cycle looks to be no different."});
+CREATE (:Tweet { text: "#alohafriday #time does #not #exist #positivevibes #hawaiian @Richard @Thomas @Susan @Jessica"});
+CREATE (:Tweet { text: "@Ashley rip to the fellow nohern ireland fan who sadley passed away tonight!.. gawa, forever singing and cheering on fire"});
+CREATE (:Tweet { text: "it was a hard monday due to cloudy weather. disabling oxygen production for today. #goodnight #badmonday"});
+CREATE (:Tweet { text: "it's unbelievable that in the 21st century we'd need something like this. again. #neverump #xenophobia"});
+CREATE (:Tweet { text: "#taylorswift1989 bull up: you will dominate your bull and you will direct it whatever you want it to do. w"});
+CREATE (:Tweet { text: "morning~~ #travelingram #dalat #ripinkylife"});
+CREATE (:Tweet { text: "@Steven once more only one word tells it all: #photoshop. #enoughisenough #dontphotoshopeverything #wheresallthenaturalphotos"});
+CREATE (:Tweet { text: "oh, #cedarpoint. waited 2 hours in the valravn line and it stopped working. we were so close."});
+CREATE (:Tweet { text: "i am thankful for sunshine. #thankful #positive"});
+CREATE (:Tweet { text: "when you finally finish a book you've been working on for awhile... #bookworm #ontothenextnovel"});
+CREATE (:Tweet { text: "yup, being a knicks fan is hard, so its easier to just be an nba fan when the playoffs roll around"});
+CREATE (:Tweet { text: "there is life after social networking. embrace each day. be"});
+CREATE (:Tweet { text: "my mom shares the same bihday as @Dorothy bihday snake! see you this weekend"});
+CREATE (:Tweet { text: "lovely echeveria blooms#flowers #grow #gardening #iphonesia #bliss #blooms #basilicabotanica"});
+CREATE (:Tweet { text: "i am amazing. #i_am #positive #affirmation"});
+CREATE (:Tweet { text: "#model i love u take with u all the time in ur!!!"});
+CREATE (:Tweet { text: "#whenever im and #something goes #wrong |"});
+CREATE (:Tweet { text: "feeling blue #illustration"});
+CREATE (:Tweet { text: "the best pa about life is knowing who you are!"});
+CREATE (:Tweet { text: "#abc2020 getting ready 2 remove the victums frm #pulseclub #prayfororlando"});
+CREATE (:Tweet { text: "for her #bihday we got her a #nose #job @Karen #bihday #petunia we love you"});
+CREATE (:Tweet { text: "off to concelebrate at the #albanpilgrimage for the first time. @James"});
+CREATE (:Tweet { text: "@Elizabeth let the scum-baggery begin....."});
+CREATE (:Tweet { text: "thank you! super love it! zpamdelacruz #wedding# @John dolores, capas tarlac."});
+CREATE (:Tweet { text: "a scourge on those playing baroque pieces on piano beyond belief"});
+CREATE (:Tweet { text: "@Richard lets fight against #love #peace"});
+CREATE (:Tweet { text: "happy fathers day, mr. rayos #video #fathers #day #rayos #world #hotvideo #videos"});
+CREATE (:Tweet { text: "@Thomas ascot times with this babe #ascot #fashion #monochrome #style #instahappyday"});
+CREATE (:Tweet { text: "the weekend..is here!! #selfie #yolo #xoxo #like4like"});
+CREATE (:Tweet { text: "happy at work conference: right' mindset leads to culture-of-development organizations #work #mindset"});
+CREATE (:Tweet { text: "christina grimmie's last performance before being shot... via @Susan #christinarip #voice #christinagrimmie"});
+CREATE (:Tweet { text: "we are ready to dance #roar #preschoolers #students #proud"});
+CREATE (:Tweet { text: "you've really hu my feelings"});
+CREATE (:Tweet { text: "@Jessica my wife whom i adore had to miss your poland show because she had surgery. her name is bridget &amp; she's my everything."});
+CREATE (:Tweet { text: "@Ashley i am so jealous of you right now.... #chatiado"});
+CREATE (:Tweet { text: "i celebrate every man that has played it's fatherly role. father's day#"});
+CREATE (:Tweet { text: "i'm sure they are just as happy.... hour"});
+CREATE (:Tweet { text: "the white establishment can't have blk folx running around loving themselves and promoting our greatness"});
+CREATE (:Tweet { text: "good morning! the journey begins! #travel #yeah #thejourneybegins #hello"});
+CREATE (:Tweet { text: "@Steven # if you #luv #hottweets like this from #venusexchange"});
+CREATE (:Tweet { text: "our new brochures have arrived! how exciting!! #aworks #solutions"});
+CREATE (:Tweet { text: "so much stuff happening in florida! first #orlando shooting and now #disneygatorattack on a two year old kid"});
+CREATE (:Tweet { text: "@Dorothy ferrari will do it for the sake of the championship. this gp is clearly a turning point rb, ferrari,mercs..."});
+CREATE (:Tweet { text: "aced my first test! #proud"});
+CREATE (:Tweet { text: "seeks probe into #udtapunjab' leak, points finger at #amarinder, #aap"});
+CREATE (:Tweet { text: "@Karen wrapping up #senseaboutmaths @James 6th @Elizabeth @John @Richard"});
+CREATE (:Tweet { text: "@Thomas hey, white people: you can call people 'white' by @Susan #race #identity #med"});
+CREATE (:Tweet { text: "@Jessica @Ashley you might be. just have not shown here today. regurgitated talking points and name calling?"});
+CREATE (:Tweet { text: "sometimes you have to raise a few brows to raise the bar. #golfstrengthandconditioning #strong #felixfoisgolf"});
+CREATE (:Tweet { text: "about that #greathonour #careerconvos @Steven @Dorothy"});
+CREATE (:Tweet { text: "@Karen designing #innovative learning space @James to include #wateringhole #cave #mountaintop #campfire @Elizabeth h"});
+CREATE (:Tweet { text: "how the #altright uses &amp; insecurity to lure men into #whitesupremacy"});
+CREATE (:Tweet { text: "carrying a gun wouldn't of helped if you can't take it in with you. gun control won't stop the black market! terrorism will get worse!"});
+CREATE (:Tweet { text: "use the power of your mind to #heal your body!! - #altwaystoheal #healthy #peace!"});
+CREATE (:Tweet { text: "woohoo!! just over 5 weeks to go!"});
+CREATE (:Tweet { text: "being in a far away place where you have no family members hus"});
+CREATE (:Tweet { text: "ready to rehearse tonight with new music and new videos, look out for the announcement! #midweek #newmusic #watchthisspace #guitar"});
+CREATE (:Tweet { text: "now on monday nights at 8pm on #up channel!!!! i finally get to see what all the fuss is about!!!"});
+CREATE (:Tweet { text: "watching the new episodes of @John on @Richard"});
+CREATE (:Tweet { text: "@Thomas offline now after a very nice and long night.. #snapchat @Susan #redhead #vermillionred"});
+CREATE (:Tweet { text: "15 things incredibly #people do"});
+CREATE (:Tweet { text: "yes! received my acceptance letter for my masters so will be back at @Jessica again in october! #goodtimes #history"});
+CREATE (:Tweet { text: "daughter riding her bike around driveway, son playing his guitar for us while we enjoy by the campfire... #summeime #memories"});
+CREATE (:Tweet { text: "omg!!! loving this station!!! way to jam out at work!!! while getting work done of course!!!! #memories @Ashley"});
+CREATE (:Tweet { text: "@Steven i'll always hope that one day i'll get to hug you, but i don't think that it's gonna happen anytime soon..."});
+CREATE (:Tweet { text: "#model i love u take with u all the time in ur!!!"});
+CREATE (:Tweet { text: "couple having sex fat naked japanese girls"});
+CREATE (:Tweet { text: "#hump on that #hump day #humpers @Dorothy edwardsville, pennsylvania"});
+CREATE (:Tweet { text: "personalised we... gbp 7.99 get here: #shop #cool #home #fun"});
+CREATE (:Hashtag { tag: "run"});
+CREATE (:Hashtag { tag: "lyft"});
+CREATE (:Hashtag { tag: "disapointed"});
+CREATE (:Hashtag { tag: "getthanked"});
+CREATE (:Hashtag { tag: "model"});
+CREATE (:Hashtag { tag: "motivation"});
+CREATE (:Hashtag { tag: "allshowandnogo"});
+CREATE (:Hashtag { tag: "school"});
+CREATE (:Hashtag { tag: "exams"});
+CREATE (:Hashtag { tag: "hate"});
+CREATE (:Hashtag { tag: "imagine"});
+CREATE (:Hashtag { tag: "actorslife"});
+CREATE (:Hashtag { tag: "revolutionschool"});
+CREATE (:Hashtag { tag: "girl"});
+CREATE (:Hashtag { tag: "allin"});
+CREATE (:Hashtag { tag: "cavs"});
+CREATE (:Hashtag { tag: "champions"});
+CREATE (:Hashtag { tag: "cleveland"});
+CREATE (:Hashtag { tag: "clevelandcavaliers"});
+CREATE (:Hashtag { tag: "gr8"});
+CREATE (:Hashtag { tag: "ireland"});
+CREATE (:Hashtag { tag: "blog"});
+CREATE (:Hashtag { tag: "silver"});
+CREATE (:Hashtag { tag: "gold"});
+CREATE (:Hashtag { tag: "forex"});
+CREATE (:Hashtag { tag: "orlando"});
+CREATE (:Hashtag { tag: "standwithorlando"});
+CREATE (:Hashtag { tag: "pulseshooting"});
+CREATE (:Hashtag { tag: "orlandoshooting"});
+CREATE (:Hashtag { tag: "biggerproblems"});
+CREATE (:Hashtag { tag: "selfish"});
+CREATE (:Hashtag { tag: "heabreaking"});
+CREATE (:Hashtag { tag: "values"});
+CREATE (:Hashtag { tag: "love"});
+CREATE (:Hashtag { tag: "80days"});
+CREATE (:Hashtag { tag: "gettingfed"});
+CREATE (:Hashtag { tag: "cnn"});
+CREATE (:Hashtag { tag: "michigan"});
+CREATE (:Hashtag { tag: "tcot"});
+CREATE (:Hashtag { tag: "australia"});
+CREATE (:Hashtag { tag: "opkillingbay"});
+CREATE (:Hashtag { tag: "seashepherd"});
+CREATE (:Hashtag { tag: "helpcovedolphins"});
+CREATE (:Hashtag { tag: "thecove"});
+CREATE (:Hashtag { tag: "ngry#got7"});
+CREATE (:Hashtag { tag: "junior"});
+CREATE (:Hashtag { tag: "yugyoem"});
+CREATE (:Hashtag { tag: "omg"});
+CREATE (:Hashtag { tag: "thankful"});
+CREATE (:Hashtag { tag: "positive"});
+CREATE (:Hashtag { tag: "friday!"});
+CREATE (:Hashtag { tag: "cookies"});
+CREATE (:Hashtag { tag: "euro2016"});
+CREATE (:Hashtag { tag: "badday"});
+CREATE (:Hashtag { tag: "coneofshame"});
+CREATE (:Hashtag { tag: "cats"});
+CREATE (:Hashtag { tag: "pissed"});
+CREATE (:Hashtag { tag: "funny"});
+CREATE (:Hashtag { tag: "laughs"});
+CREATE (:Hashtag { tag: "wine"});
+CREATE (:Hashtag { tag: "weekend?"});
+CREATE (:Hashtag { tag: "tgif"});
+CREATE (:Hashtag { tag: "ff"});
+CREATE (:Hashtag { tag: "gamedev"});
+CREATE (:Hashtag { tag: "indiedev"});
+CREATE (:Hashtag { tag: "indiegamedev"});
+CREATE (:Hashtag { tag: "squad!"});
+CREATE (:Hashtag { tag: "upsideofflorida"});
+CREATE (:Hashtag { tag: "shopalyssas"});
+CREATE (:Hashtag { tag: "smiles"});
+CREATE (:Hashtag { tag: "media"});
+CREATE (:Hashtag { tag: "pressconference"});
+CREATE (:Hashtag { tag: "antalya"});
+CREATE (:Hashtag { tag: "turkey"});
+CREATE (:Hashtag { tag: "throwback"});
+CREATE (:Hashtag { tag: "ica16"});
+CREATE (:Hashtag { tag: "rip#orlando"});
+CREATE (:Hashtag { tag: "alohafriday"});
+CREATE (:Hashtag { tag: "time"});
+CREATE (:Hashtag { tag: "not"});
+CREATE (:Hashtag { tag: "exist"});
+CREATE (:Hashtag { tag: "positivevibes"});
+CREATE (:Hashtag { tag: "hawaiian"});
+CREATE (:Hashtag { tag: "goodnight"});
+CREATE (:Hashtag { tag: "badmonday"});
+CREATE (:Hashtag { tag: "neverump"});
+CREATE (:Hashtag { tag: "xenophobia"});
+CREATE (:Hashtag { tag: "taylorswift1989"});
+CREATE (:Hashtag { tag: "travelingram"});
+CREATE (:Hashtag { tag: "dalat"});
+CREATE (:Hashtag { tag: "ripinkylife"});
+CREATE (:Hashtag { tag: "photoshop."});
+CREATE (:Hashtag { tag: "enoughisenough"});
+CREATE (:Hashtag { tag: "dontphotoshopeverything"});
+CREATE (:Hashtag { tag: "wheresallthenaturalphotos"});
+CREATE (:Hashtag { tag: "cedarpoint."});
+CREATE (:Hashtag { tag: "bookworm"});
+CREATE (:Hashtag { tag: "ontothenextnovel"});
+CREATE (:Hashtag { tag: "looms#flowers"});
+CREATE (:Hashtag { tag: "grow"});
+CREATE (:Hashtag { tag: "gardening"});
+CREATE (:Hashtag { tag: "iphonesia"});
+CREATE (:Hashtag { tag: "bliss"});
+CREATE (:Hashtag { tag: "blooms"});
+CREATE (:Hashtag { tag: "basilicabotanica"});
+CREATE (:Hashtag { tag: "i_am"});
+CREATE (:Hashtag { tag: "affirmation"});
+CREATE (:Hashtag { tag: "whenever"});
+CREATE (:Hashtag { tag: "something"});
+CREATE (:Hashtag { tag: "wrong"});
+CREATE (:Hashtag { tag: "illustration"});
+CREATE (:Hashtag { tag: "abc2020"});
+CREATE (:Hashtag { tag: "pulseclub"});
+CREATE (:Hashtag { tag: "prayfororlando"});
+CREATE (:Hashtag { tag: "bihday"});
+CREATE (:Hashtag { tag: "nose"});
+CREATE (:Hashtag { tag: "job"});
+CREATE (:Hashtag { tag: "petunia"});
+CREATE (:Hashtag { tag: "albanpilgrimage"});
+CREATE (:Hashtag { tag: "wedding#"});
+CREATE (:Hashtag { tag: "peace"});
+CREATE (:Hashtag { tag: "video"});
+CREATE (:Hashtag { tag: "fathers"});
+CREATE (:Hashtag { tag: "day"});
+CREATE (:Hashtag { tag: "rayos"});
+CREATE (:Hashtag { tag: "world"});
+CREATE (:Hashtag { tag: "hotvideo"});
+CREATE (:Hashtag { tag: "videos"});
+CREATE (:Hashtag { tag: "ascot"});
+CREATE (:Hashtag { tag: "fashion"});
+CREATE (:Hashtag { tag: "monochrome"});
+CREATE (:Hashtag { tag: "style"});
+CREATE (:Hashtag { tag: "instahappyday"});
+CREATE (:Hashtag { tag: "selfie"});
+CREATE (:Hashtag { tag: "yolo"});
+CREATE (:Hashtag { tag: "xoxo"});
+CREATE (:Hashtag { tag: "like4like"});
+CREATE (:Hashtag { tag: "work"});
+CREATE (:Hashtag { tag: "mindset"});
+CREATE (:Hashtag { tag: "christinarip"});
+CREATE (:Hashtag { tag: "voice"});
+CREATE (:Hashtag { tag: "christinagrimmie"});
+CREATE (:Hashtag { tag: "roar"});
+CREATE (:Hashtag { tag: "preschoolers"});
+CREATE (:Hashtag { tag: "students"});
+CREATE (:Hashtag { tag: "proud"});
+CREATE (:Hashtag { tag: "chatiado"});
+CREATE (:Hashtag { tag: "ay#"});
+CREATE (:Hashtag { tag: "travel"});
+CREATE (:Hashtag { tag: "yeah"});
+CREATE (:Hashtag { tag: "thejourneybegins"});
+CREATE (:Hashtag { tag: "hello"});
+CREATE (:Hashtag { tag: "luv"});
+CREATE (:Hashtag { tag: "hottweets"});
+CREATE (:Hashtag { tag: "venusexchange"});
+CREATE (:Hashtag { tag: "aworks"});
+CREATE (:Hashtag { tag: "solutions"});
+CREATE (:Hashtag { tag: "disneygatorattack"});
+CREATE (:Hashtag { tag: "udtapunjab'"});
+CREATE (:Hashtag { tag: "amarinder,"});
+CREATE (:Hashtag { tag: "aap"});
+CREATE (:Hashtag { tag: "senseaboutmaths"});
+CREATE (:Hashtag { tag: "race"});
+CREATE (:Hashtag { tag: "identity"});
+CREATE (:Hashtag { tag: "med"});
+CREATE (:Hashtag { tag: "golfstrengthandconditioning"});
+CREATE (:Hashtag { tag: "strong"});
+CREATE (:Hashtag { tag: "felixfoisgolf"});
+CREATE (:Hashtag { tag: "greathonour"});
+CREATE (:Hashtag { tag: "careerconvos"});
+CREATE (:Hashtag { tag: "innovative"});
+CREATE (:Hashtag { tag: "wateringhole"});
+CREATE (:Hashtag { tag: "cave"});
+CREATE (:Hashtag { tag: "mountaintop"});
+CREATE (:Hashtag { tag: "campfire"});
+CREATE (:Hashtag { tag: "altright"});
+CREATE (:Hashtag { tag: "whitesupremacy"});
+CREATE (:Hashtag { tag: "heal"});
+CREATE (:Hashtag { tag: "altwaystoheal"});
+CREATE (:Hashtag { tag: "healthy"});
+CREATE (:Hashtag { tag: "peace!"});
+CREATE (:Hashtag { tag: "midweek"});
+CREATE (:Hashtag { tag: "newmusic"});
+CREATE (:Hashtag { tag: "watchthisspace"});
+CREATE (:Hashtag { tag: "guitar"});
+CREATE (:Hashtag { tag: "up"});
+CREATE (:Hashtag { tag: "snapchat"});
+CREATE (:Hashtag { tag: "redhead"});
+CREATE (:Hashtag { tag: "vermillionred"});
+CREATE (:Hashtag { tag: "people"});
+CREATE (:Hashtag { tag: "goodtimes"});
+CREATE (:Hashtag { tag: "history"});
+CREATE (:Hashtag { tag: "summeime"});
+CREATE (:Hashtag { tag: "memories"});
+CREATE (:Hashtag { tag: "hump"});
+CREATE (:Hashtag { tag: "humpers"});
+CREATE (:Hashtag { tag: "shop"});
+CREATE (:Hashtag { tag: "cool"});
+CREATE (:Hashtag { tag: "home"});
+CREATE (:Hashtag { tag: "fun"});
+MATCH (user1: User{ name: "Ashley"}), (user2: User{ name: "James"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "John"}), (user2: User{ name: "James"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Richard"}), (user2: User{ name: "James"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Thomas"}), (user2: User{ name: "James"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Thomas"}), (user2: User{ name: "Elizabeth"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Dorothy"}), (user2: User{ name: "Elizabeth"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Jessica"}), (user2: User{ name: "Elizabeth"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "John"}), (user2: User{ name: "Elizabeth"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Ashley"}), (user2: User{ name: "Elizabeth"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Steven"}), (user2: User{ name: "Elizabeth"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Susan"}), (user2: User{ name: "Elizabeth"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Susan"}), (user2: User{ name: "John"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Dorothy"}), (user2: User{ name: "John"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Ashley"}), (user2: User{ name: "John"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "James"}), (user2: User{ name: "John"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Steven"}), (user2: User{ name: "John"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Richard"}), (user2: User{ name: "John"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Richard"}), (user2: User{ name: "Thomas"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "John"}), (user2: User{ name: "Thomas"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Elizabeth"}), (user2: User{ name: "Susan"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Ashley"}), (user2: User{ name: "Susan"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Ashley"}), (user2: User{ name: "Jessica"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "John"}), (user2: User{ name: "Jessica"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Elizabeth"}), (user2: User{ name: "Jessica"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Richard"}), (user2: User{ name: "Jessica"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Susan"}), (user2: User{ name: "Jessica"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "James"}), (user2: User{ name: "Jessica"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Thomas"}), (user2: User{ name: "Jessica"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Susan"}), (user2: User{ name: "Ashley"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "John"}), (user2: User{ name: "Steven"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Richard"}), (user2: User{ name: "Steven"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Thomas"}), (user2: User{ name: "Steven"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Ashley"}), (user2: User{ name: "Steven"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Susan"}), (user2: User{ name: "Steven"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Elizabeth"}), (user2: User{ name: "Steven"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Jessica"}), (user2: User{ name: "Steven"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "James"}), (user2: User{ name: "Steven"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Dorothy"}), (user2: User{ name: "Steven"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Richard"}), (user2: User{ name: "Dorothy"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Thomas"}), (user2: User{ name: "Dorothy"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Thomas"}), (user2: User{ name: "Karen"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user1: User{ name: "Dorothy"}), (user2: User{ name: "Karen"})
+CREATE (user1)-[:Follows]->(user2);
+MATCH (user: User{ name: "James"}), (tweet: Tweet{ text: "@James when a father is dysfunctional and is so selfish he drags his kids into his dysfunction. #run"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Elizabeth"}), (tweet: Tweet{ text: "@Elizabeth @John thanks for #lyft credit i can't use cause they don't offer wheelchair vans in pdx. #disapointed #getthanked"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "John"}), (tweet: Tweet{ text: "bihday your majesty"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Richard"}), (tweet: Tweet{ text: "#model i love u take with u all the time in ur!!!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Thomas"}), (tweet: Tweet{ text: "factsguide: society now #motivation"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Susan"}), (tweet: Tweet{ text: "[2/2] huge fan fare and big talking before they leave. chaos and pay disputes when they get there. #allshowandnogo"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Jessica"}), (tweet: Tweet{ text: "@Richard camping tomorrow @Thomas @Susan @Jessica @Ashley @Steven @Dorothy @Karen danny"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Ashley"}), (tweet: Tweet{ text: "the next school year is the year for exams. can't think about that #school #exams #hate #imagine #actorslife #revolutionschool #girl"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Steven"}), (tweet: Tweet{ text: "we won!!! love the land!!! #allin #cavs #champions #cleveland #clevelandcavaliers"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Dorothy"}), (tweet: Tweet{ text: "@James @Elizabeth welcome here ! i'm it's so #gr8 !"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Karen"}), (tweet: Tweet{ text: "#ireland consumer price index (mom) climbed from previous 0.2% to 0.5% in may #blog #silver #gold #forex"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "James"}), (tweet: Tweet{ text: "we are so selfish. #orlando #standwithorlando #pulseshooting #orlandoshooting #biggerproblems #selfish #heabreaking #values #love #"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Elizabeth"}), (tweet: Tweet{ text: "i get to see my daddy today!! #80days #gettingfed"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "John"}), (tweet: Tweet{ text: "@John #cnn calls #michigan middle school 'build the wall' chant '' #tcot"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Richard"}), (tweet: Tweet{ text: "no comment! in #australia #opkillingbay #seashepherd #helpcovedolphins #thecove #helpcovedolphins"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Thomas"}), (tweet: Tweet{ text: "ouch...junior is angry#got7 #junior #yugyoem #omg"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Susan"}), (tweet: Tweet{ text: "i am thankful for having a paner. #thankful #positive"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Jessica"}), (tweet: Tweet{ text: "retweet if you agree!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Ashley"}), (tweet: Tweet{ text: "its #friday! smiles all around via ig user: @Richard #cookies make people"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Steven"}), (tweet: Tweet{ text: "as we all know, essential oils are not made of chemicals."})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Dorothy"}), (tweet: Tweet{ text: "#euro2016 people blaming ha for conceded goal was it fat rooney who gave away free kick knowing bale can hit them from there."})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Karen"}), (tweet: Tweet{ text: "sad little dude.. #badday #coneofshame #cats #pissed #funny #laughs"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "James"}), (tweet: Tweet{ text: "product of the day: happy man #wine tool who's it's the #weekend? time to open up &amp; drink up!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Elizabeth"}), (tweet: Tweet{ text: "@Thomas @Susan lumpy says i am a . prove it lumpy."})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "John"}), (tweet: Tweet{ text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Richard"}), (tweet: Tweet{ text: "beautiful sign by vendor 80 for $45.00!! #upsideofflorida #shopalyssas #love"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Thomas"}), (tweet: Tweet{ text: "@Elizabeth all #smiles when #media is !! #pressconference in #antalya #turkey ! sunday #throwback love!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Susan"}), (tweet: Tweet{ text: "we had a great panel on the mediatization of the public service #ica16"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Jessica"}), (tweet: Tweet{ text: "happy father's day @John"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Ashley"}), (tweet: Tweet{ text: "50 people went to nightclub to have a good night and 1 man's actions means those people are lost to their families forever #rip#orlando"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Steven"}), (tweet: Tweet{ text: "i have never had a chance to vote for a presidential candidate i was excited about and this cycle looks to be no different."})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Dorothy"}), (tweet: Tweet{ text: "#alohafriday #time does #not #exist #positivevibes #hawaiian @Richard @Thomas @Susan @Jessica"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Karen"}), (tweet: Tweet{ text: "@Ashley rip to the fellow nohern ireland fan who sadley passed away tonight!.. gawa, forever singing and cheering on fire"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "James"}), (tweet: Tweet{ text: "it was a hard monday due to cloudy weather. disabling oxygen production for today. #goodnight #badmonday"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Elizabeth"}), (tweet: Tweet{ text: "it's unbelievable that in the 21st century we'd need something like this. again. #neverump #xenophobia"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "John"}), (tweet: Tweet{ text: "#taylorswift1989 bull up: you will dominate your bull and you will direct it whatever you want it to do. w"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Richard"}), (tweet: Tweet{ text: "morning~~ #travelingram #dalat #ripinkylife"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Thomas"}), (tweet: Tweet{ text: "@Steven once more only one word tells it all: #photoshop. #enoughisenough #dontphotoshopeverything #wheresallthenaturalphotos"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Susan"}), (tweet: Tweet{ text: "oh, #cedarpoint. waited 2 hours in the valravn line and it stopped working. we were so close."})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Jessica"}), (tweet: Tweet{ text: "i am thankful for sunshine. #thankful #positive"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Ashley"}), (tweet: Tweet{ text: "when you finally finish a book you've been working on for awhile... #bookworm #ontothenextnovel"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Steven"}), (tweet: Tweet{ text: "yup, being a knicks fan is hard, so its easier to just be an nba fan when the playoffs roll around"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Dorothy"}), (tweet: Tweet{ text: "there is life after social networking. embrace each day. be"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Karen"}), (tweet: Tweet{ text: "my mom shares the same bihday as @Dorothy bihday snake! see you this weekend"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "James"}), (tweet: Tweet{ text: "lovely echeveria blooms#flowers #grow #gardening #iphonesia #bliss #blooms #basilicabotanica"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Elizabeth"}), (tweet: Tweet{ text: "i am amazing. #i_am #positive #affirmation"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "John"}), (tweet: Tweet{ text: "#model i love u take with u all the time in ur!!!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Richard"}), (tweet: Tweet{ text: "#whenever im and #something goes #wrong |"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Thomas"}), (tweet: Tweet{ text: "feeling blue #illustration"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Susan"}), (tweet: Tweet{ text: "the best pa about life is knowing who you are!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Jessica"}), (tweet: Tweet{ text: "#abc2020 getting ready 2 remove the victums frm #pulseclub #prayfororlando"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Ashley"}), (tweet: Tweet{ text: "for her #bihday we got her a #nose #job @Karen #bihday #petunia we love you"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Steven"}), (tweet: Tweet{ text: "off to concelebrate at the #albanpilgrimage for the first time. @James"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Dorothy"}), (tweet: Tweet{ text: "@Elizabeth let the scum-baggery begin....."})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Karen"}), (tweet: Tweet{ text: "thank you! super love it! zpamdelacruz #wedding# @John dolores, capas tarlac."})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "James"}), (tweet: Tweet{ text: "a scourge on those playing baroque pieces on piano beyond belief"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Elizabeth"}), (tweet: Tweet{ text: "@Richard lets fight against #love #peace"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "John"}), (tweet: Tweet{ text: "happy fathers day, mr. rayos #video #fathers #day #rayos #world #hotvideo #videos"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Richard"}), (tweet: Tweet{ text: "@Thomas ascot times with this babe #ascot #fashion #monochrome #style #instahappyday"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Thomas"}), (tweet: Tweet{ text: "the weekend..is here!! #selfie #yolo #xoxo #like4like"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Susan"}), (tweet: Tweet{ text: "happy at work conference: right' mindset leads to culture-of-development organizations #work #mindset"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Jessica"}), (tweet: Tweet{ text: "christina grimmie's last performance before being shot... via @Susan #christinarip #voice #christinagrimmie"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Ashley"}), (tweet: Tweet{ text: "we are ready to dance #roar #preschoolers #students #proud"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Steven"}), (tweet: Tweet{ text: "you've really hu my feelings"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Dorothy"}), (tweet: Tweet{ text: "@Jessica my wife whom i adore had to miss your poland show because she had surgery. her name is bridget &amp; she's my everything."})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Karen"}), (tweet: Tweet{ text: "@Ashley i am so jealous of you right now.... #chatiado"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "James"}), (tweet: Tweet{ text: "i celebrate every man that has played it's fatherly role. father's day#"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Elizabeth"}), (tweet: Tweet{ text: "i'm sure they are just as happy.... hour"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "John"}), (tweet: Tweet{ text: "the white establishment can't have blk folx running around loving themselves and promoting our greatness"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Richard"}), (tweet: Tweet{ text: "good morning! the journey begins! #travel #yeah #thejourneybegins #hello"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Thomas"}), (tweet: Tweet{ text: "@Steven # if you #luv #hottweets like this from #venusexchange"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Susan"}), (tweet: Tweet{ text: "our new brochures have arrived! how exciting!! #aworks #solutions"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Jessica"}), (tweet: Tweet{ text: "so much stuff happening in florida! first #orlando shooting and now #disneygatorattack on a two year old kid"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Ashley"}), (tweet: Tweet{ text: "@Dorothy ferrari will do it for the sake of the championship. this gp is clearly a turning point rb, ferrari,mercs..."})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Steven"}), (tweet: Tweet{ text: "aced my first test! #proud"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Dorothy"}), (tweet: Tweet{ text: "seeks probe into #udtapunjab' leak, points finger at #amarinder, #aap"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Karen"}), (tweet: Tweet{ text: "@Karen wrapping up #senseaboutmaths @James 6th @Elizabeth @John @Richard"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "James"}), (tweet: Tweet{ text: "@Thomas hey, white people: you can call people 'white' by @Susan #race #identity #med"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Elizabeth"}), (tweet: Tweet{ text: "@Jessica @Ashley you might be. just have not shown here today. regurgitated talking points and name calling?"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "John"}), (tweet: Tweet{ text: "sometimes you have to raise a few brows to raise the bar. #golfstrengthandconditioning #strong #felixfoisgolf"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Richard"}), (tweet: Tweet{ text: "about that #greathonour #careerconvos @Steven @Dorothy"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Thomas"}), (tweet: Tweet{ text: "@Karen designing #innovative learning space @James to include #wateringhole #cave #mountaintop #campfire @Elizabeth h"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Susan"}), (tweet: Tweet{ text: "how the #altright uses &amp; insecurity to lure men into #whitesupremacy"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Jessica"}), (tweet: Tweet{ text: "carrying a gun wouldn't of helped if you can't take it in with you. gun control won't stop the black market! terrorism will get worse!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Ashley"}), (tweet: Tweet{ text: "use the power of your mind to #heal your body!! - #altwaystoheal #healthy #peace!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Steven"}), (tweet: Tweet{ text: "woohoo!! just over 5 weeks to go!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Dorothy"}), (tweet: Tweet{ text: "being in a far away place where you have no family members hus"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Karen"}), (tweet: Tweet{ text: "ready to rehearse tonight with new music and new videos, look out for the announcement! #midweek #newmusic #watchthisspace #guitar"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "James"}), (tweet: Tweet{ text: "now on monday nights at 8pm on #up channel!!!! i finally get to see what all the fuss is about!!!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Elizabeth"}), (tweet: Tweet{ text: "watching the new episodes of @John on @Richard"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "John"}), (tweet: Tweet{ text: "@Thomas offline now after a very nice and long night.. #snapchat @Susan #redhead #vermillionred"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Richard"}), (tweet: Tweet{ text: "15 things incredibly #people do"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Thomas"}), (tweet: Tweet{ text: "yes! received my acceptance letter for my masters so will be back at @Jessica again in october! #goodtimes #history"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Susan"}), (tweet: Tweet{ text: "daughter riding her bike around driveway, son playing his guitar for us while we enjoy by the campfire... #summeime #memories"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Jessica"}), (tweet: Tweet{ text: "omg!!! loving this station!!! way to jam out at work!!! while getting work done of course!!!! #memories @Ashley"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Ashley"}), (tweet: Tweet{ text: "@Steven i'll always hope that one day i'll get to hug you, but i don't think that it's gonna happen anytime soon..."})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Steven"}), (tweet: Tweet{ text: "#model i love u take with u all the time in ur!!!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Dorothy"}), (tweet: Tweet{ text: "couple having sex fat naked japanese girls"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Karen"}), (tweet: Tweet{ text: "#hump on that #hump day #humpers @Dorothy edwardsville, pennsylvania"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "James"}), (tweet: Tweet{ text: "personalised we... gbp 7.99 get here: #shop #cool #home #fun"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Elizabeth"}), (tweet: Tweet{ text: "factsguide: society now #motivation"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "John"}), (tweet: Tweet{ text: "ouch...junior is angry#got7 #junior #yugyoem #omg"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Richard"}), (tweet: Tweet{ text: "bihday your majesty"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Thomas"}), (tweet: Tweet{ text: "retweet if you agree!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Susan"}), (tweet: Tweet{ text: "retweet if you agree!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Ashley"}), (tweet: Tweet{ text: "retweet if you agree!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Steven"}), (tweet: Tweet{ text: "retweet if you agree!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (user: User{ name: "Dorothy"}), (tweet: Tweet{ text: "carrying a gun wouldn't of helped if you can't take it in with you. gun control won't stop the black market! terrorism will get worse!"})
+CREATE (user)-[:Sent]->(tweet);
+MATCH (tweet: Tweet{ text: "@James when a father is dysfunctional and is so selfish he drags his kids into his dysfunction. #run"}), (user: User{ name: "James"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Elizabeth @John thanks for #lyft credit i can't use cause they don't offer wheelchair vans in pdx. #disapointed #getthanked"}), (user: User{ name: "Elizabeth"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Elizabeth @John thanks for #lyft credit i can't use cause they don't offer wheelchair vans in pdx. #disapointed #getthanked"}), (user: User{ name: "John"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Richard camping tomorrow @Thomas @Susan @Jessica @Ashley @Steven @Dorothy @Karen danny"}), (user: User{ name: "Richard"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Richard camping tomorrow @Thomas @Susan @Jessica @Ashley @Steven @Dorothy @Karen danny"}), (user: User{ name: "Thomas"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Richard camping tomorrow @Thomas @Susan @Jessica @Ashley @Steven @Dorothy @Karen danny"}), (user: User{ name: "Susan"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Richard camping tomorrow @Thomas @Susan @Jessica @Ashley @Steven @Dorothy @Karen danny"}), (user: User{ name: "Jessica"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Richard camping tomorrow @Thomas @Susan @Jessica @Ashley @Steven @Dorothy @Karen danny"}), (user: User{ name: "Ashley"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Richard camping tomorrow @Thomas @Susan @Jessica @Ashley @Steven @Dorothy @Karen danny"}), (user: User{ name: "Steven"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Richard camping tomorrow @Thomas @Susan @Jessica @Ashley @Steven @Dorothy @Karen danny"}), (user: User{ name: "Dorothy"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Richard camping tomorrow @Thomas @Susan @Jessica @Ashley @Steven @Dorothy @Karen danny"}), (user: User{ name: "Karen"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@James @Elizabeth welcome here ! i'm it's so #gr8 !"}), (user: User{ name: "James"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@James @Elizabeth welcome here ! i'm it's so #gr8 !"}), (user: User{ name: "Elizabeth"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@John #cnn calls #michigan middle school 'build the wall' chant '' #tcot"}), (user: User{ name: "John"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "its #friday! smiles all around via ig user: @Richard #cookies make people"}), (user: User{ name: "Richard"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Thomas @Susan lumpy says i am a . prove it lumpy."}), (user: User{ name: "Thomas"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Thomas @Susan lumpy says i am a . prove it lumpy."}), (user: User{ name: "Susan"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"}), (user: User{ name: "Jessica"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"}), (user: User{ name: "Ashley"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"}), (user: User{ name: "Steven"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"}), (user: User{ name: "Dorothy"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"}), (user: User{ name: "Karen"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"}), (user: User{ name: "James"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Elizabeth all #smiles when #media is !! #pressconference in #antalya #turkey ! sunday #throwback love!"}), (user: User{ name: "Elizabeth"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "happy father's day @John"}), (user: User{ name: "John"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "#alohafriday #time does #not #exist #positivevibes #hawaiian @Richard @Thomas @Susan @Jessica"}), (user: User{ name: "Richard"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "#alohafriday #time does #not #exist #positivevibes #hawaiian @Richard @Thomas @Susan @Jessica"}), (user: User{ name: "Thomas"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "#alohafriday #time does #not #exist #positivevibes #hawaiian @Richard @Thomas @Susan @Jessica"}), (user: User{ name: "Susan"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "#alohafriday #time does #not #exist #positivevibes #hawaiian @Richard @Thomas @Susan @Jessica"}), (user: User{ name: "Jessica"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Ashley rip to the fellow nohern ireland fan who sadley passed away tonight!.. gawa, forever singing and cheering on fire"}), (user: User{ name: "Ashley"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Steven once more only one word tells it all: #photoshop. #enoughisenough #dontphotoshopeverything #wheresallthenaturalphotos"}), (user: User{ name: "Steven"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "my mom shares the same bihday as @Dorothy bihday snake! see you this weekend"}), (user: User{ name: "Dorothy"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "for her #bihday we got her a #nose #job @Karen #bihday #petunia we love you"}), (user: User{ name: "Karen"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "off to concelebrate at the #albanpilgrimage for the first time. @James"}), (user: User{ name: "James"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Elizabeth let the scum-baggery begin....."}), (user: User{ name: "Elizabeth"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "thank you! super love it! zpamdelacruz #wedding# @John dolores, capas tarlac."}), (user: User{ name: "John"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Richard lets fight against #love #peace"}), (user: User{ name: "Richard"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Thomas ascot times with this babe #ascot #fashion #monochrome #style #instahappyday"}), (user: User{ name: "Thomas"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "christina grimmie's last performance before being shot... via @Susan #christinarip #voice #christinagrimmie"}), (user: User{ name: "Susan"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Jessica my wife whom i adore had to miss your poland show because she had surgery. her name is bridget &amp; she's my everything."}), (user: User{ name: "Jessica"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Ashley i am so jealous of you right now.... #chatiado"}), (user: User{ name: "Ashley"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Steven # if you #luv #hottweets like this from #venusexchange"}), (user: User{ name: "Steven"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Dorothy ferrari will do it for the sake of the championship. this gp is clearly a turning point rb, ferrari,mercs..."}), (user: User{ name: "Dorothy"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Karen wrapping up #senseaboutmaths @James 6th @Elizabeth @John @Richard"}), (user: User{ name: "Karen"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Karen wrapping up #senseaboutmaths @James 6th @Elizabeth @John @Richard"}), (user: User{ name: "James"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Karen wrapping up #senseaboutmaths @James 6th @Elizabeth @John @Richard"}), (user: User{ name: "Elizabeth"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Karen wrapping up #senseaboutmaths @James 6th @Elizabeth @John @Richard"}), (user: User{ name: "John"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Karen wrapping up #senseaboutmaths @James 6th @Elizabeth @John @Richard"}), (user: User{ name: "Richard"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Thomas hey, white people: you can call people 'white' by @Susan #race #identity #med"}), (user: User{ name: "Thomas"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Thomas hey, white people: you can call people 'white' by @Susan #race #identity #med"}), (user: User{ name: "Susan"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Jessica @Ashley you might be. just have not shown here today. regurgitated talking points and name calling?"}), (user: User{ name: "Jessica"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Jessica @Ashley you might be. just have not shown here today. regurgitated talking points and name calling?"}), (user: User{ name: "Ashley"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "about that #greathonour #careerconvos @Steven @Dorothy"}), (user: User{ name: "Steven"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "about that #greathonour #careerconvos @Steven @Dorothy"}), (user: User{ name: "Dorothy"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Karen designing #innovative learning space @James to include #wateringhole #cave #mountaintop #campfire @Elizabeth h"}), (user: User{ name: "Karen"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Karen designing #innovative learning space @James to include #wateringhole #cave #mountaintop #campfire @Elizabeth h"}), (user: User{ name: "James"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Karen designing #innovative learning space @James to include #wateringhole #cave #mountaintop #campfire @Elizabeth h"}), (user: User{ name: "Elizabeth"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "watching the new episodes of @John on @Richard"}), (user: User{ name: "John"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "watching the new episodes of @John on @Richard"}), (user: User{ name: "Richard"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Thomas offline now after a very nice and long night.. #snapchat @Susan #redhead #vermillionred"}), (user: User{ name: "Thomas"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Thomas offline now after a very nice and long night.. #snapchat @Susan #redhead #vermillionred"}), (user: User{ name: "Susan"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "yes! received my acceptance letter for my masters so will be back at @Jessica again in october! #goodtimes #history"}), (user: User{ name: "Jessica"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "omg!!! loving this station!!! way to jam out at work!!! while getting work done of course!!!! #memories @Ashley"}), (user: User{ name: "Ashley"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@Steven i'll always hope that one day i'll get to hug you, but i don't think that it's gonna happen anytime soon..."}), (user: User{ name: "Steven"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "#hump on that #hump day #humpers @Dorothy edwardsville, pennsylvania"}), (user: User{ name: "Dorothy"})
+CREATE (tweet)-[:Mentions]->(user);
+MATCH (tweet: Tweet{ text: "@James when a father is dysfunctional and is so selfish he drags his kids into his dysfunction. #run"}), (hashtag: Hashtag{ tag: "run"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Elizabeth @John thanks for #lyft credit i can't use cause they don't offer wheelchair vans in pdx. #disapointed #getthanked"}), (hashtag: Hashtag{ tag: "lyft"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Elizabeth @John thanks for #lyft credit i can't use cause they don't offer wheelchair vans in pdx. #disapointed #getthanked"}), (hashtag: Hashtag{ tag: "disapointed"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Elizabeth @John thanks for #lyft credit i can't use cause they don't offer wheelchair vans in pdx. #disapointed #getthanked"}), (hashtag: Hashtag{ tag: "getthanked"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#model i love u take with u all the time in ur!!!"}), (hashtag: Hashtag{ tag: "model"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "factsguide: society now #motivation"}), (hashtag: Hashtag{ tag: "motivation"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "[2/2] huge fan fare and big talking before they leave. chaos and pay disputes when they get there. #allshowandnogo"}), (hashtag: Hashtag{ tag: "allshowandnogo"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "the next school year is the year for exams. can't think about that #school #exams #hate #imagine #actorslife #revolutionschool #girl"}), (hashtag: Hashtag{ tag: "school"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "the next school year is the year for exams. can't think about that #school #exams #hate #imagine #actorslife #revolutionschool #girl"}), (hashtag: Hashtag{ tag: "exams"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "the next school year is the year for exams. can't think about that #school #exams #hate #imagine #actorslife #revolutionschool #girl"}), (hashtag: Hashtag{ tag: "hate"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "the next school year is the year for exams. can't think about that #school #exams #hate #imagine #actorslife #revolutionschool #girl"}), (hashtag: Hashtag{ tag: "imagine"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "the next school year is the year for exams. can't think about that #school #exams #hate #imagine #actorslife #revolutionschool #girl"}), (hashtag: Hashtag{ tag: "actorslife"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "the next school year is the year for exams. can't think about that #school #exams #hate #imagine #actorslife #revolutionschool #girl"}), (hashtag: Hashtag{ tag: "revolutionschool"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "the next school year is the year for exams. can't think about that #school #exams #hate #imagine #actorslife #revolutionschool #girl"}), (hashtag: Hashtag{ tag: "girl"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we won!!! love the land!!! #allin #cavs #champions #cleveland #clevelandcavaliers"}), (hashtag: Hashtag{ tag: "allin"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we won!!! love the land!!! #allin #cavs #champions #cleveland #clevelandcavaliers"}), (hashtag: Hashtag{ tag: "cavs"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we won!!! love the land!!! #allin #cavs #champions #cleveland #clevelandcavaliers"}), (hashtag: Hashtag{ tag: "champions"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we won!!! love the land!!! #allin #cavs #champions #cleveland #clevelandcavaliers"}), (hashtag: Hashtag{ tag: "cleveland"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we won!!! love the land!!! #allin #cavs #champions #cleveland #clevelandcavaliers"}), (hashtag: Hashtag{ tag: "clevelandcavaliers"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@James @Elizabeth welcome here ! i'm it's so #gr8 !"}), (hashtag: Hashtag{ tag: "gr8"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#ireland consumer price index (mom) climbed from previous 0.2% to 0.5% in may #blog #silver #gold #forex"}), (hashtag: Hashtag{ tag: "ireland"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#ireland consumer price index (mom) climbed from previous 0.2% to 0.5% in may #blog #silver #gold #forex"}), (hashtag: Hashtag{ tag: "blog"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#ireland consumer price index (mom) climbed from previous 0.2% to 0.5% in may #blog #silver #gold #forex"}), (hashtag: Hashtag{ tag: "silver"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#ireland consumer price index (mom) climbed from previous 0.2% to 0.5% in may #blog #silver #gold #forex"}), (hashtag: Hashtag{ tag: "gold"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#ireland consumer price index (mom) climbed from previous 0.2% to 0.5% in may #blog #silver #gold #forex"}), (hashtag: Hashtag{ tag: "forex"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we are so selfish. #orlando #standwithorlando #pulseshooting #orlandoshooting #biggerproblems #selfish #heabreaking #values #love #"}), (hashtag: Hashtag{ tag: "orlando"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we are so selfish. #orlando #standwithorlando #pulseshooting #orlandoshooting #biggerproblems #selfish #heabreaking #values #love #"}), (hashtag: Hashtag{ tag: "standwithorlando"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we are so selfish. #orlando #standwithorlando #pulseshooting #orlandoshooting #biggerproblems #selfish #heabreaking #values #love #"}), (hashtag: Hashtag{ tag: "pulseshooting"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we are so selfish. #orlando #standwithorlando #pulseshooting #orlandoshooting #biggerproblems #selfish #heabreaking #values #love #"}), (hashtag: Hashtag{ tag: "orlandoshooting"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we are so selfish. #orlando #standwithorlando #pulseshooting #orlandoshooting #biggerproblems #selfish #heabreaking #values #love #"}), (hashtag: Hashtag{ tag: "biggerproblems"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we are so selfish. #orlando #standwithorlando #pulseshooting #orlandoshooting #biggerproblems #selfish #heabreaking #values #love #"}), (hashtag: Hashtag{ tag: "selfish"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we are so selfish. #orlando #standwithorlando #pulseshooting #orlandoshooting #biggerproblems #selfish #heabreaking #values #love #"}), (hashtag: Hashtag{ tag: "heabreaking"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we are so selfish. #orlando #standwithorlando #pulseshooting #orlandoshooting #biggerproblems #selfish #heabreaking #values #love #"}), (hashtag: Hashtag{ tag: "values"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we are so selfish. #orlando #standwithorlando #pulseshooting #orlandoshooting #biggerproblems #selfish #heabreaking #values #love #"}), (hashtag: Hashtag{ tag: "love"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "i get to see my daddy today!! #80days #gettingfed"}), (hashtag: Hashtag{ tag: "80days"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "i get to see my daddy today!! #80days #gettingfed"}), (hashtag: Hashtag{ tag: "gettingfed"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@John #cnn calls #michigan middle school 'build the wall' chant '' #tcot"}), (hashtag: Hashtag{ tag: "cnn"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@John #cnn calls #michigan middle school 'build the wall' chant '' #tcot"}), (hashtag: Hashtag{ tag: "michigan"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@John #cnn calls #michigan middle school 'build the wall' chant '' #tcot"}), (hashtag: Hashtag{ tag: "tcot"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "no comment! in #australia #opkillingbay #seashepherd #helpcovedolphins #thecove #helpcovedolphins"}), (hashtag: Hashtag{ tag: "australia"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "no comment! in #australia #opkillingbay #seashepherd #helpcovedolphins #thecove #helpcovedolphins"}), (hashtag: Hashtag{ tag: "opkillingbay"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "no comment! in #australia #opkillingbay #seashepherd #helpcovedolphins #thecove #helpcovedolphins"}), (hashtag: Hashtag{ tag: "seashepherd"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "no comment! in #australia #opkillingbay #seashepherd #helpcovedolphins #thecove #helpcovedolphins"}), (hashtag: Hashtag{ tag: "helpcovedolphins"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "no comment! in #australia #opkillingbay #seashepherd #helpcovedolphins #thecove #helpcovedolphins"}), (hashtag: Hashtag{ tag: "thecove"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "ouch...junior is angry#got7 #junior #yugyoem #omg"}), (hashtag: Hashtag{ tag: "ngry#got7"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "ouch...junior is angry#got7 #junior #yugyoem #omg"}), (hashtag: Hashtag{ tag: "junior"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "ouch...junior is angry#got7 #junior #yugyoem #omg"}), (hashtag: Hashtag{ tag: "yugyoem"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "ouch...junior is angry#got7 #junior #yugyoem #omg"}), (hashtag: Hashtag{ tag: "omg"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "i am thankful for having a paner. #thankful #positive"}), (hashtag: Hashtag{ tag: "thankful"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "i am thankful for having a paner. #thankful #positive"}), (hashtag: Hashtag{ tag: "positive"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "its #friday! smiles all around via ig user: @Richard #cookies make people"}), (hashtag: Hashtag{ tag: "friday!"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "its #friday! smiles all around via ig user: @Richard #cookies make people"}), (hashtag: Hashtag{ tag: "cookies"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#euro2016 people blaming ha for conceded goal was it fat rooney who gave away free kick knowing bale can hit them from there."}), (hashtag: Hashtag{ tag: "euro2016"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "sad little dude.. #badday #coneofshame #cats #pissed #funny #laughs"}), (hashtag: Hashtag{ tag: "badday"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "sad little dude.. #badday #coneofshame #cats #pissed #funny #laughs"}), (hashtag: Hashtag{ tag: "coneofshame"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "sad little dude.. #badday #coneofshame #cats #pissed #funny #laughs"}), (hashtag: Hashtag{ tag: "cats"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "sad little dude.. #badday #coneofshame #cats #pissed #funny #laughs"}), (hashtag: Hashtag{ tag: "pissed"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "sad little dude.. #badday #coneofshame #cats #pissed #funny #laughs"}), (hashtag: Hashtag{ tag: "funny"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "sad little dude.. #badday #coneofshame #cats #pissed #funny #laughs"}), (hashtag: Hashtag{ tag: "laughs"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "product of the day: happy man #wine tool who's it's the #weekend? time to open up &amp; drink up!"}), (hashtag: Hashtag{ tag: "wine"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "product of the day: happy man #wine tool who's it's the #weekend? time to open up &amp; drink up!"}), (hashtag: Hashtag{ tag: "weekend?"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"}), (hashtag: Hashtag{ tag: "tgif"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"}), (hashtag: Hashtag{ tag: "ff"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"}), (hashtag: Hashtag{ tag: "gamedev"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"}), (hashtag: Hashtag{ tag: "indiedev"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"}), (hashtag: Hashtag{ tag: "indiegamedev"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Jessica #tgif #ff to my #gamedev #indiedev #indiegamedev #squad! @Ashley @Steven @Dorothy @Karen @James"}), (hashtag: Hashtag{ tag: "squad!"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "beautiful sign by vendor 80 for $45.00!! #upsideofflorida #shopalyssas #love"}), (hashtag: Hashtag{ tag: "upsideofflorida"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "beautiful sign by vendor 80 for $45.00!! #upsideofflorida #shopalyssas #love"}), (hashtag: Hashtag{ tag: "shopalyssas"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Elizabeth all #smiles when #media is !! #pressconference in #antalya #turkey ! sunday #throwback love!"}), (hashtag: Hashtag{ tag: "smiles"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Elizabeth all #smiles when #media is !! #pressconference in #antalya #turkey ! sunday #throwback love!"}), (hashtag: Hashtag{ tag: "media"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Elizabeth all #smiles when #media is !! #pressconference in #antalya #turkey ! sunday #throwback love!"}), (hashtag: Hashtag{ tag: "pressconference"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Elizabeth all #smiles when #media is !! #pressconference in #antalya #turkey ! sunday #throwback love!"}), (hashtag: Hashtag{ tag: "antalya"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Elizabeth all #smiles when #media is !! #pressconference in #antalya #turkey ! sunday #throwback love!"}), (hashtag: Hashtag{ tag: "turkey"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Elizabeth all #smiles when #media is !! #pressconference in #antalya #turkey ! sunday #throwback love!"}), (hashtag: Hashtag{ tag: "throwback"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we had a great panel on the mediatization of the public service #ica16"}), (hashtag: Hashtag{ tag: "ica16"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "50 people went to nightclub to have a good night and 1 man's actions means those people are lost to their families forever #rip#orlando"}), (hashtag: Hashtag{ tag: "rip#orlando"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#alohafriday #time does #not #exist #positivevibes #hawaiian @Richard @Thomas @Susan @Jessica"}), (hashtag: Hashtag{ tag: "alohafriday"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#alohafriday #time does #not #exist #positivevibes #hawaiian @Richard @Thomas @Susan @Jessica"}), (hashtag: Hashtag{ tag: "time"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#alohafriday #time does #not #exist #positivevibes #hawaiian @Richard @Thomas @Susan @Jessica"}), (hashtag: Hashtag{ tag: "not"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#alohafriday #time does #not #exist #positivevibes #hawaiian @Richard @Thomas @Susan @Jessica"}), (hashtag: Hashtag{ tag: "exist"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#alohafriday #time does #not #exist #positivevibes #hawaiian @Richard @Thomas @Susan @Jessica"}), (hashtag: Hashtag{ tag: "positivevibes"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#alohafriday #time does #not #exist #positivevibes #hawaiian @Richard @Thomas @Susan @Jessica"}), (hashtag: Hashtag{ tag: "hawaiian"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "it was a hard monday due to cloudy weather. disabling oxygen production for today. #goodnight #badmonday"}), (hashtag: Hashtag{ tag: "goodnight"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "it was a hard monday due to cloudy weather. disabling oxygen production for today. #goodnight #badmonday"}), (hashtag: Hashtag{ tag: "badmonday"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "it's unbelievable that in the 21st century we'd need something like this. again. #neverump #xenophobia"}), (hashtag: Hashtag{ tag: "neverump"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "it's unbelievable that in the 21st century we'd need something like this. again. #neverump #xenophobia"}), (hashtag: Hashtag{ tag: "xenophobia"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#taylorswift1989 bull up: you will dominate your bull and you will direct it whatever you want it to do. w"}), (hashtag: Hashtag{ tag: "taylorswift1989"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "morning~~ #travelingram #dalat #ripinkylife"}), (hashtag: Hashtag{ tag: "travelingram"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "morning~~ #travelingram #dalat #ripinkylife"}), (hashtag: Hashtag{ tag: "dalat"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "morning~~ #travelingram #dalat #ripinkylife"}), (hashtag: Hashtag{ tag: "ripinkylife"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Steven once more only one word tells it all: #photoshop. #enoughisenough #dontphotoshopeverything #wheresallthenaturalphotos"}), (hashtag: Hashtag{ tag: "photoshop."})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Steven once more only one word tells it all: #photoshop. #enoughisenough #dontphotoshopeverything #wheresallthenaturalphotos"}), (hashtag: Hashtag{ tag: "enoughisenough"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Steven once more only one word tells it all: #photoshop. #enoughisenough #dontphotoshopeverything #wheresallthenaturalphotos"}), (hashtag: Hashtag{ tag: "dontphotoshopeverything"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Steven once more only one word tells it all: #photoshop. #enoughisenough #dontphotoshopeverything #wheresallthenaturalphotos"}), (hashtag: Hashtag{ tag: "wheresallthenaturalphotos"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "oh, #cedarpoint. waited 2 hours in the valravn line and it stopped working. we were so close."}), (hashtag: Hashtag{ tag: "cedarpoint."})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "when you finally finish a book you've been working on for awhile... #bookworm #ontothenextnovel"}), (hashtag: Hashtag{ tag: "bookworm"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "when you finally finish a book you've been working on for awhile... #bookworm #ontothenextnovel"}), (hashtag: Hashtag{ tag: "ontothenextnovel"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "lovely echeveria blooms#flowers #grow #gardening #iphonesia #bliss #blooms #basilicabotanica"}), (hashtag: Hashtag{ tag: "looms#flowers"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "lovely echeveria blooms#flowers #grow #gardening #iphonesia #bliss #blooms #basilicabotanica"}), (hashtag: Hashtag{ tag: "grow"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "lovely echeveria blooms#flowers #grow #gardening #iphonesia #bliss #blooms #basilicabotanica"}), (hashtag: Hashtag{ tag: "gardening"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "lovely echeveria blooms#flowers #grow #gardening #iphonesia #bliss #blooms #basilicabotanica"}), (hashtag: Hashtag{ tag: "iphonesia"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "lovely echeveria blooms#flowers #grow #gardening #iphonesia #bliss #blooms #basilicabotanica"}), (hashtag: Hashtag{ tag: "bliss"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "lovely echeveria blooms#flowers #grow #gardening #iphonesia #bliss #blooms #basilicabotanica"}), (hashtag: Hashtag{ tag: "blooms"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "lovely echeveria blooms#flowers #grow #gardening #iphonesia #bliss #blooms #basilicabotanica"}), (hashtag: Hashtag{ tag: "basilicabotanica"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "i am amazing. #i_am #positive #affirmation"}), (hashtag: Hashtag{ tag: "i_am"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "i am amazing. #i_am #positive #affirmation"}), (hashtag: Hashtag{ tag: "affirmation"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#whenever im and #something goes #wrong |"}), (hashtag: Hashtag{ tag: "whenever"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#whenever im and #something goes #wrong |"}), (hashtag: Hashtag{ tag: "something"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#whenever im and #something goes #wrong |"}), (hashtag: Hashtag{ tag: "wrong"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "feeling blue #illustration"}), (hashtag: Hashtag{ tag: "illustration"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#abc2020 getting ready 2 remove the victums frm #pulseclub #prayfororlando"}), (hashtag: Hashtag{ tag: "abc2020"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#abc2020 getting ready 2 remove the victums frm #pulseclub #prayfororlando"}), (hashtag: Hashtag{ tag: "pulseclub"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#abc2020 getting ready 2 remove the victums frm #pulseclub #prayfororlando"}), (hashtag: Hashtag{ tag: "prayfororlando"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "for her #bihday we got her a #nose #job @Karen #bihday #petunia we love you"}), (hashtag: Hashtag{ tag: "bihday"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "for her #bihday we got her a #nose #job @Karen #bihday #petunia we love you"}), (hashtag: Hashtag{ tag: "nose"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "for her #bihday we got her a #nose #job @Karen #bihday #petunia we love you"}), (hashtag: Hashtag{ tag: "job"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "for her #bihday we got her a #nose #job @Karen #bihday #petunia we love you"}), (hashtag: Hashtag{ tag: "petunia"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "off to concelebrate at the #albanpilgrimage for the first time. @James"}), (hashtag: Hashtag{ tag: "albanpilgrimage"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "thank you! super love it! zpamdelacruz #wedding# @John dolores, capas tarlac."}), (hashtag: Hashtag{ tag: "wedding#"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Richard lets fight against #love #peace"}), (hashtag: Hashtag{ tag: "peace"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "happy fathers day, mr. rayos #video #fathers #day #rayos #world #hotvideo #videos"}), (hashtag: Hashtag{ tag: "video"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "happy fathers day, mr. rayos #video #fathers #day #rayos #world #hotvideo #videos"}), (hashtag: Hashtag{ tag: "fathers"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "happy fathers day, mr. rayos #video #fathers #day #rayos #world #hotvideo #videos"}), (hashtag: Hashtag{ tag: "day"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "happy fathers day, mr. rayos #video #fathers #day #rayos #world #hotvideo #videos"}), (hashtag: Hashtag{ tag: "rayos"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "happy fathers day, mr. rayos #video #fathers #day #rayos #world #hotvideo #videos"}), (hashtag: Hashtag{ tag: "world"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "happy fathers day, mr. rayos #video #fathers #day #rayos #world #hotvideo #videos"}), (hashtag: Hashtag{ tag: "hotvideo"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "happy fathers day, mr. rayos #video #fathers #day #rayos #world #hotvideo #videos"}), (hashtag: Hashtag{ tag: "videos"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Thomas ascot times with this babe #ascot #fashion #monochrome #style #instahappyday"}), (hashtag: Hashtag{ tag: "ascot"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Thomas ascot times with this babe #ascot #fashion #monochrome #style #instahappyday"}), (hashtag: Hashtag{ tag: "fashion"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Thomas ascot times with this babe #ascot #fashion #monochrome #style #instahappyday"}), (hashtag: Hashtag{ tag: "monochrome"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Thomas ascot times with this babe #ascot #fashion #monochrome #style #instahappyday"}), (hashtag: Hashtag{ tag: "style"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Thomas ascot times with this babe #ascot #fashion #monochrome #style #instahappyday"}), (hashtag: Hashtag{ tag: "instahappyday"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "the weekend..is here!! #selfie #yolo #xoxo #like4like"}), (hashtag: Hashtag{ tag: "selfie"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "the weekend..is here!! #selfie #yolo #xoxo #like4like"}), (hashtag: Hashtag{ tag: "yolo"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "the weekend..is here!! #selfie #yolo #xoxo #like4like"}), (hashtag: Hashtag{ tag: "xoxo"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "the weekend..is here!! #selfie #yolo #xoxo #like4like"}), (hashtag: Hashtag{ tag: "like4like"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "happy at work conference: right' mindset leads to culture-of-development organizations #work #mindset"}), (hashtag: Hashtag{ tag: "work"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "happy at work conference: right' mindset leads to culture-of-development organizations #work #mindset"}), (hashtag: Hashtag{ tag: "mindset"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "christina grimmie's last performance before being shot... via @Susan #christinarip #voice #christinagrimmie"}), (hashtag: Hashtag{ tag: "christinarip"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "christina grimmie's last performance before being shot... via @Susan #christinarip #voice #christinagrimmie"}), (hashtag: Hashtag{ tag: "voice"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "christina grimmie's last performance before being shot... via @Susan #christinarip #voice #christinagrimmie"}), (hashtag: Hashtag{ tag: "christinagrimmie"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we are ready to dance #roar #preschoolers #students #proud"}), (hashtag: Hashtag{ tag: "roar"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we are ready to dance #roar #preschoolers #students #proud"}), (hashtag: Hashtag{ tag: "preschoolers"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we are ready to dance #roar #preschoolers #students #proud"}), (hashtag: Hashtag{ tag: "students"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "we are ready to dance #roar #preschoolers #students #proud"}), (hashtag: Hashtag{ tag: "proud"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Ashley i am so jealous of you right now.... #chatiado"}), (hashtag: Hashtag{ tag: "chatiado"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "i celebrate every man that has played it's fatherly role. father's day#"}), (hashtag: Hashtag{ tag: "ay#"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "good morning! the journey begins! #travel #yeah #thejourneybegins #hello"}), (hashtag: Hashtag{ tag: "travel"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "good morning! the journey begins! #travel #yeah #thejourneybegins #hello"}), (hashtag: Hashtag{ tag: "yeah"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "good morning! the journey begins! #travel #yeah #thejourneybegins #hello"}), (hashtag: Hashtag{ tag: "thejourneybegins"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "good morning! the journey begins! #travel #yeah #thejourneybegins #hello"}), (hashtag: Hashtag{ tag: "hello"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Steven # if you #luv #hottweets like this from #venusexchange"}), (hashtag: Hashtag{ tag: "luv"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Steven # if you #luv #hottweets like this from #venusexchange"}), (hashtag: Hashtag{ tag: "hottweets"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Steven # if you #luv #hottweets like this from #venusexchange"}), (hashtag: Hashtag{ tag: "venusexchange"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "our new brochures have arrived! how exciting!! #aworks #solutions"}), (hashtag: Hashtag{ tag: "aworks"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "our new brochures have arrived! how exciting!! #aworks #solutions"}), (hashtag: Hashtag{ tag: "solutions"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "so much stuff happening in florida! first #orlando shooting and now #disneygatorattack on a two year old kid"}), (hashtag: Hashtag{ tag: "disneygatorattack"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "seeks probe into #udtapunjab' leak, points finger at #amarinder, #aap"}), (hashtag: Hashtag{ tag: "udtapunjab'"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "seeks probe into #udtapunjab' leak, points finger at #amarinder, #aap"}), (hashtag: Hashtag{ tag: "amarinder,"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "seeks probe into #udtapunjab' leak, points finger at #amarinder, #aap"}), (hashtag: Hashtag{ tag: "aap"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Karen wrapping up #senseaboutmaths @James 6th @Elizabeth @John @Richard"}), (hashtag: Hashtag{ tag: "senseaboutmaths"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Thomas hey, white people: you can call people 'white' by @Susan #race #identity #med"}), (hashtag: Hashtag{ tag: "race"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Thomas hey, white people: you can call people 'white' by @Susan #race #identity #med"}), (hashtag: Hashtag{ tag: "identity"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Thomas hey, white people: you can call people 'white' by @Susan #race #identity #med"}), (hashtag: Hashtag{ tag: "med"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "sometimes you have to raise a few brows to raise the bar. #golfstrengthandconditioning #strong #felixfoisgolf"}), (hashtag: Hashtag{ tag: "golfstrengthandconditioning"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "sometimes you have to raise a few brows to raise the bar. #golfstrengthandconditioning #strong #felixfoisgolf"}), (hashtag: Hashtag{ tag: "strong"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "sometimes you have to raise a few brows to raise the bar. #golfstrengthandconditioning #strong #felixfoisgolf"}), (hashtag: Hashtag{ tag: "felixfoisgolf"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "about that #greathonour #careerconvos @Steven @Dorothy"}), (hashtag: Hashtag{ tag: "greathonour"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "about that #greathonour #careerconvos @Steven @Dorothy"}), (hashtag: Hashtag{ tag: "careerconvos"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Karen designing #innovative learning space @James to include #wateringhole #cave #mountaintop #campfire @Elizabeth h"}), (hashtag: Hashtag{ tag: "innovative"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Karen designing #innovative learning space @James to include #wateringhole #cave #mountaintop #campfire @Elizabeth h"}), (hashtag: Hashtag{ tag: "wateringhole"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Karen designing #innovative learning space @James to include #wateringhole #cave #mountaintop #campfire @Elizabeth h"}), (hashtag: Hashtag{ tag: "cave"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Karen designing #innovative learning space @James to include #wateringhole #cave #mountaintop #campfire @Elizabeth h"}), (hashtag: Hashtag{ tag: "mountaintop"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Karen designing #innovative learning space @James to include #wateringhole #cave #mountaintop #campfire @Elizabeth h"}), (hashtag: Hashtag{ tag: "campfire"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "how the #altright uses &amp; insecurity to lure men into #whitesupremacy"}), (hashtag: Hashtag{ tag: "altright"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "how the #altright uses &amp; insecurity to lure men into #whitesupremacy"}), (hashtag: Hashtag{ tag: "whitesupremacy"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "use the power of your mind to #heal your body!! - #altwaystoheal #healthy #peace!"}), (hashtag: Hashtag{ tag: "heal"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "use the power of your mind to #heal your body!! - #altwaystoheal #healthy #peace!"}), (hashtag: Hashtag{ tag: "altwaystoheal"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "use the power of your mind to #heal your body!! - #altwaystoheal #healthy #peace!"}), (hashtag: Hashtag{ tag: "healthy"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "use the power of your mind to #heal your body!! - #altwaystoheal #healthy #peace!"}), (hashtag: Hashtag{ tag: "peace!"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "ready to rehearse tonight with new music and new videos, look out for the announcement! #midweek #newmusic #watchthisspace #guitar"}), (hashtag: Hashtag{ tag: "midweek"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "ready to rehearse tonight with new music and new videos, look out for the announcement! #midweek #newmusic #watchthisspace #guitar"}), (hashtag: Hashtag{ tag: "newmusic"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "ready to rehearse tonight with new music and new videos, look out for the announcement! #midweek #newmusic #watchthisspace #guitar"}), (hashtag: Hashtag{ tag: "watchthisspace"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "ready to rehearse tonight with new music and new videos, look out for the announcement! #midweek #newmusic #watchthisspace #guitar"}), (hashtag: Hashtag{ tag: "guitar"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "now on monday nights at 8pm on #up channel!!!! i finally get to see what all the fuss is about!!!"}), (hashtag: Hashtag{ tag: "up"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Thomas offline now after a very nice and long night.. #snapchat @Susan #redhead #vermillionred"}), (hashtag: Hashtag{ tag: "snapchat"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Thomas offline now after a very nice and long night.. #snapchat @Susan #redhead #vermillionred"}), (hashtag: Hashtag{ tag: "redhead"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "@Thomas offline now after a very nice and long night.. #snapchat @Susan #redhead #vermillionred"}), (hashtag: Hashtag{ tag: "vermillionred"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "15 things incredibly #people do"}), (hashtag: Hashtag{ tag: "people"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "yes! received my acceptance letter for my masters so will be back at @Jessica again in october! #goodtimes #history"}), (hashtag: Hashtag{ tag: "goodtimes"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "yes! received my acceptance letter for my masters so will be back at @Jessica again in october! #goodtimes #history"}), (hashtag: Hashtag{ tag: "history"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "daughter riding her bike around driveway, son playing his guitar for us while we enjoy by the campfire... #summeime #memories"}), (hashtag: Hashtag{ tag: "summeime"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "daughter riding her bike around driveway, son playing his guitar for us while we enjoy by the campfire... #summeime #memories"}), (hashtag: Hashtag{ tag: "memories"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#hump on that #hump day #humpers @Dorothy edwardsville, pennsylvania"}), (hashtag: Hashtag{ tag: "hump"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "#hump on that #hump day #humpers @Dorothy edwardsville, pennsylvania"}), (hashtag: Hashtag{ tag: "humpers"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "personalised we... gbp 7.99 get here: #shop #cool #home #fun"}), (hashtag: Hashtag{ tag: "shop"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "personalised we... gbp 7.99 get here: #shop #cool #home #fun"}), (hashtag: Hashtag{ tag: "cool"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "personalised we... gbp 7.99 get here: #shop #cool #home #fun"}), (hashtag: Hashtag{ tag: "home"})
+CREATE(tweet)-[:Contains]->(hashtag);
+MATCH (tweet: Tweet{ text: "personalised we... gbp 7.99 get here: #shop #cool #home #fun"}), (hashtag: Hashtag{ tag: "fun"})
+CREATE(tweet)-[:Contains]->(hashtag);
